@@ -19,12 +19,12 @@ import type {
   UtilsRecord,
 } from "@tanstack/db"
 import type {
+  FetchStatus,
   QueryClient,
   QueryFunctionContext,
   QueryKey,
   QueryObserverOptions,
   QueryObserverResult,
-  FetchStatus,
 } from "@tanstack/query-core"
 import type { StandardSchemaV1 } from "@standard-schema/spec"
 
